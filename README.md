@@ -7,6 +7,7 @@ Você deverá criar uma mini loja e-commerce que vai listar os produtos e mostra
 - O usuário deve ter a capacidade de remover/atualizar a quantidade de cada produto no carrinho. 
 - O carrinho deve mostrar o preço total contabilizado
 
+![cart](image1.png)
 
 **Requrimentos**
 
