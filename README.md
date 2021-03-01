@@ -1,4 +1,4 @@
-# Prova prática de VUE/React
+# Prova prática de Vue.js/React
 
 Você deverá criar uma mini loja e-commerce que vai listar os produtos e mostrar produtos escolhidos pelo usuário.
 
