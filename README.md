@@ -4,7 +4,7 @@ Você deverá criar uma mini loja e-commerce + API REST que vai listar os produt
 
 Quando um cliente faz um pedido, a implementação deve comunicar com o fornecedor deste produto. A arquitetura desse projeto deve ser eficiente ao ponto de conseguir fazer a integração com um novo fornecedor mantendo o mesmo protocolo/interface (Lembrando que cada fornecedor possui suas próprias regras de negócio e API diferentes).
 
-(Front-end)
+## (Front-end)
 
 **Funcionalidades**
 
@@ -19,7 +19,7 @@ Quando um cliente faz um pedido, a implementação deve comunicar com o forneced
 
 
 
-(Back-end)
+## (Back-end)
 
 Requerimento:
 
