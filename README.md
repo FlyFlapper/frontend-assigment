@@ -23,14 +23,15 @@ Quando um cliente faz um pedido, a implementação deve comunicar com o forneced
 
 Requerimento:
 
-Utilização de SOLID e Design Patterns
-Banco de dados
+- Utilização de SOLID e Design Patterns
+- Banco de dados
+
 Métodos:
-order/create
-order/getById
-products/get
+- order/create
+- order/getById
+- products/get
 
 Desejavel:
-Testes unitários
+- Testes unitários
 
 
