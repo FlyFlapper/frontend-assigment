@@ -9,7 +9,7 @@ Você deverá criar uma mini loja e-commerce que vai listar os produtos e mostra
 
 ![cart](image1.png)
 
-**Requrimentos**
+**Requerimentos**
 
 - Deve utilizar gerenciadores de estado como Vuex/Redux
 
